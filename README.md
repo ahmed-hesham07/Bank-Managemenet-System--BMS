@@ -31,8 +31,8 @@ An online banking system built using Python, Tkinter for the graphical user inte
 ### **2. Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/online-banking-system.git
-cd online-banking-system
+git clone https://github.com/ahmed-hesham07/Online-Banking-System.git
+cd Online-Banking-System
 ```
 
 ### **3. Install Dependencies**

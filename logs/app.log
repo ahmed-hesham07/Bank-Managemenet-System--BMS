@@ -1,0 +1,11 @@
+2024-09-21 19:10:16,876 - WARNING - Login attempt for non-existent user 'Ahmed'.
+2024-09-21 19:10:35,336 - WARNING - Login attempt for non-existent user 'admin'.
+2024-09-21 19:10:49,576 - INFO - New user registered: 'admin'.
+2024-09-21 19:12:19,864 - INFO - New user registered: 'ahmed'.
+2024-09-21 23:15:03,723 - INFO - New user registered: 'Hesham'.
+2024-09-21 23:15:14,928 - INFO - User 'Hesham' logged in successfully.
+2024-09-22 00:44:28,534 - WARNING - Failed login attempt 1 for user 'admin'.
+2024-09-22 00:47:34,789 - INFO - User 'admin' logged in successfully.
+2024-09-22 00:47:56,849 - INFO - User 'admin' logged out.
+2024-09-22 00:48:31,953 - WARNING - Login attempt for non-existent user 'ahmed'.
+2024-09-22 00:48:57,746 - INFO - New user registered: 'Etch'.

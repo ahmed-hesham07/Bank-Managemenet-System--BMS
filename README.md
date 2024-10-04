@@ -106,12 +106,18 @@ To access the admin screen:
 ## **Project Structure**
 
 ```
-|-- database.db               # SQLite database file (created after running setup)
-|-- Main.py                   # Main application file with Tkinter GUI
-|-- database_setup.py          # Script to set up the SQLite database and sample users
-|-- utils.py                  # Utility functions for hashing, encryption, and data handling
-|-- README.md                 # Project documentation
-|-- .env                      # Environment variables file (created by the user)
+Online Banking System/
+│
+├── database.db               # SQLite database file (created after running setup)
+├── Main.py                   # Main application file with Tkinter GUI
+├── database_setup.py         # Script to set up the SQLite database and sample users
+├── utils.py                  # Utility functions for hashing, encryption, and data handling
+├── add_admin.py              # Script to add an admin user to the database
+├── config.py                 # Configuration settings for the application
+├── generate.py               # Script to generate an encryption key
+├── reset_locked_until.py     # Script to reset the locked_until field for all users
+├── update_database.py        # Script to update the database schema
+└── README.md                 # Project documentation
 ```
 
 ## **Contributing**
